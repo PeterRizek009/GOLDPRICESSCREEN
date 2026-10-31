@@ -1,0 +1,3 @@
+
+[functions.update-market-prices]
+verify_jwt = false
