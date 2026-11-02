@@ -6,7 +6,7 @@ import { fetchMarketPrices } from "../utils/marketPrices.js";
 
 const KARATS = [24, 22, 21, 18];
 const GRAMS_PER_OZ = 31.1034768;
-const REFRESH_INTERVAL = 15000;
+const REFRESH_INTERVAL = 5000;
 
 function CompanyScreenPage() {
   const navigate = useNavigate();
